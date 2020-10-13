@@ -1,0 +1,1 @@
+var projectName = "markdown-previewer";
